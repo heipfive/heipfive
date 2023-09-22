@@ -12,7 +12,7 @@ For the times they are a-changin'
 
 
 
-### 鄙人西陵子 I'm Xi_Ling.  
+### 鄙人西陵子  I'm Xi Ling.  
 - 安穷乐志，无风尘之慕；砥节立行，有井渫之洁。  
   
 
@@ -22,10 +22,10 @@ For the times they are a-changin'
 ## 个人信息
 <table><tr><td valign="top" width="50%">
 
-- A green hand at coding.  
+- a green hand at coding.
   
 
-- Learning cs50x，cs61a  
+- learning cs50x，cs61a  
   
 
 - interested in Continental philosophy  
@@ -77,5 +77,3 @@ For the times they are a-changin'
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
