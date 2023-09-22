@@ -19,7 +19,7 @@ For the times they are a-changin'
 <br/>  
 
 
-## Rapidfire  
+## 个人信息
 <table><tr><td valign="top" width="50%">
 
 - A green hand at coding.  
@@ -29,18 +29,6 @@ For the times they are a-changin'
   
 
 - interested in Continental philosophy  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
